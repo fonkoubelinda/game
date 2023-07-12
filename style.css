@@ -1,0 +1,117 @@
+h1{
+    color:rgb(248, 13, 201);
+    text-transform:uppercase;
+    background-color:black ;
+    font-size: 60px;
+    font-weight: 100;
+text-decoration:underline;
+ text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+outline: auto;
+box-shadow: inset;
+}
+h3{
+    color:blue ;
+    text-transform: capitalize;
+    background-color:w ;
+    font-size: 50px;
+    font-weight: 900;
+    text-align:center;
+    text-decoration-color: rgb(210, 138, 29);
+    text-transform:capitalize;
+    outline: auto;
+}
+b{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-decoration: rgb(15, 255, 255);
+    background-color: rgb(49, 149, 116);
+    font-weight: 300;
+    outline: auto;
+}
+strong{
+    text-transform: capitalize;
+    text-shadow: none;
+    color: rgb(19, 17, 21);
+    background-color: burlywood;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(3, 20, 40);
+    border-radius: 0;
+    outline: auto;
+}
+table{
+    outline: auto;
+    color: rgb(204, 22, 224);
+    background-color:black;
+    text-transform: capitalize;
+    text-shadow: none;
+    }
+img{
+    width: 300px;
+    height: 200px;
+    outline: auto;
+    display: block;
+    border-style: double;
+    border-color: rgb(246, 66, 138);
+    border-radius: 30px;
+    margin: auto;
+   
+    }
+    div{
+        background-color: rgb(9, 97, 92);
+        width: 250px;
+        height: 150px;
+        outline: auto;
+        border: 6px solid brown;
+        padding: 5px;
+        border-radius: 30px;
+        box-shadow: 5px 5px blue;
+    }
+    span{
+        text-transform: uppercase;
+        background-color:rgb(17, 83, 6);
+        outline: auto;
+        text-align: center;
+    }
+   body{
+    width: 900px;
+     margin: auto;
+     padding: 0 5px 3px 5px;
+     border: 5px solid white;
+     background-image:url(images\ \(6\).jpg);
+    }
+    html{
+     width: auto;
+     margin: auto;
+     background-color:rgb(5, 6, 6);
+     font-size:larger;
+     background-image: url(images\ \(1\).jpg);
+    
+    }
+    
+
+
+     
+         
+         
+     
+
+       
+    
+       
+
+    
+
+    
+     
+    
+
+
+
+
+
+    
+    
+
+
+
